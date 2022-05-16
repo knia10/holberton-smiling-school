@@ -6,7 +6,7 @@ In this project, you will implement 3 web pages with Bootstrap. You will use all
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have fully functional web pages that look the same as the designer file.
 
 Here the final result:
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3c71cc99d2fc1c12a3d3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220516%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220516T191625Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=15fab0a1483f3246aa26bffebc691fa21cb3f47e0b1033b9a7bc980321197380" width="366" height="519">
+<img src = "https://github.com/knia10/holberton-smiling-school/blob/master/images/holberton-smiling-school.jpg?raw=true">
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/623/Archive.zip)
 
 ## Requirements 🚩
